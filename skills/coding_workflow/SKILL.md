@@ -1,7 +1,7 @@
 ---
 name: coding_workflow
-version：v1.0
-descriptionm：确保 Codex 在执行功能迭代时，需要严格遵循 PROJECT.md + TODOS.md + TASK.md 的流程推进，避免偏航、遗漏验收、状态不一致。
+version: v1.0
+descriptionm: 确保 Codex 在执行功能迭代时，需要严格遵循 PROJECT.md + TODOS.md + TASK.md 的流程推进，避免偏航、遗漏验收、状态不一致。
 ---
 
 # 0. 术语与真相源（Source of Truth）
