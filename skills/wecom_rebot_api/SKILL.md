@@ -1,7 +1,7 @@
 ---
 name: wecom_rebot_api
-version：v1.0
-description：使用企业微信机器人api，发送企业微信群聊通知
+version: v1.0
+description: 使用企业微信机器人api，发送企业微信群聊通知
 ---
 
 ## 1) 能力描述（What）
